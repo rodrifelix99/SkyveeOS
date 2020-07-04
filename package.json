@@ -1,0 +1,19 @@
+{
+  "name": "skyvee",
+  "version": "1.0.0",
+  "description": "Skyvee is a JS-based electron app pretending to be an OS. It's that easy.",
+  "main": "kernel.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrifelix99/SkyveeOS.git"
+  },
+  "author": "Rodrigo Felix",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rodrifelix99/SkyveeOS/issues"
+  },
+  "homepage": "https://github.com/rodrifelix99/SkyveeOS#readme"
+}
